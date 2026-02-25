@@ -54,6 +54,6 @@ public class Village {
 				chaine.append("- " + villageois[i].getNom() + "\n");
 			}
 		}
-		return chaine.toString();
+		return chaine.toString(); hello
 	}
 }
