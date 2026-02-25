@@ -54,6 +54,29 @@ public class Village {
 				chaine.append("- " + villageois[i].getNom() + "\n");
 			}
 		}
-		return chaine.toString(); hello
+		return chaine.toString();
 	}
+	
+	
+	// Début Tp1
+	
+	public class Marche {
+		
+		private Etal[] etals;
+		
+		public Marche(int nbetals) {
+			etals = new Etal[nbetals];
+		}
+	}
+	
+	
+	void utiliserEtal(int indiceEtal, Gaulois vendeur, String produit, int nbProduit) {=
+			
+	
+	
+	}
+	
+	
+	
+	
 }
